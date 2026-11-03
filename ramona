@@ -21,7 +21,7 @@
           ¡Bienvenidos al aula digital!
         </h2>
 <p class="font-body-sm text-body-sm text-on-primary-container leading-relaxed">
-          Soy la <strong class="text-surface font-semibold" data-tp="titleName">Lic. Ramona Almonte</strong>. Diseñé este espacio para que nuestras niñas, niños y colegas docentes exploren el saber dominicano y universal con rigor académico, asombro y mucho entusiasmo pedagógico.
+          Soy la <strong class="text-surface font-semibold" data-tp="titleName">Escarli Martinez.</strong>. Diseñé este espacio para que nuestras niñas, niños y colegas docentes exploren el saber dominicano y universal con rigor académico, asombro y mucho entusiasmo pedagógico.
         </p>
 <div class="pt-space-xs flex items-center gap-space-sm">
 <div class="flex items-center gap-1.5 bg-surface/10 backdrop-blur-md px-3 py-1 rounded-full text-surface-lowest font-label-sm text-label-sm">
@@ -30,7 +30,7 @@
           </div>
 <a class="text-secondary-fixed hover:text-surface text-label-sm font-label-sm flex items-center gap-0.5 transition-colors" href="#areas-curriculares">
             Explorar áreas <span class="material-symbols-outlined text-[14px]">arrow_downward</span>
-</a>
+</a>. Ram
 </div>
 </div>
 <!-- Detalle decorativo sutil en fondo -->
